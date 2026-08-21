@@ -50,8 +50,8 @@ PGLP attacks exploit the gap between mathematical distance metrics (e.g., Lp nor
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pglp-attacks.git
-cd pglp-attacks
+git clone https://github.com/LeeeeeLy/PGLP-Code-Release.git
+cd PGLP-Code-Release
 
 # Create virtual environment
 python -m venv venv
@@ -285,9 +285,9 @@ If you use this code in your research, please cite:
 @article{li2025pglp,
   title={Perception-Guided Large Perturbation Attacks against Adversarial Training of Neural Networks},
   author={Li, Xiaowen and Zhao, Wenwei and Duan, Rui and Liu, Yao and Lu, Zhuo},
-  journal={IEEE Transactions on Dependable and Secure Computing},
-  year={2025},
-  publisher={IEEE}
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2026},
+  note={Under review}
 }
 ``` -->
 
