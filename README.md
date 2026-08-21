@@ -5,7 +5,7 @@
 This repository contains the official implementation of the PGLP (Perception-Guided Large Perturbation) attacks from the paper:
 
 **"Perception-Guided Large Perturbation Attacks against Adversarial Training of Neural Networks"**  
-*IEEE Transactions on Dependable and Secure Computing (TDSC)*
+
 
 ## Overview
 
